@@ -12,4 +12,7 @@ Key features of HydraFiles include:
 - HydraFiles is perfect for users looking for a straightforward, efficient way to manage file uploads and sharing. Whether it's for personal use or collaborative projects, this tool saves time and enhances productivity. Enjoy a seamless experience in file uploading with HydraFiles! 
 
 Feel free to contribute or report issues on the GitHub repository. Your feedback helps improve the application!
-![image](https://github.com/user-attachments/assets/b3ea71ad-45d5-42b4-9fb0-7e23f99bc2e2)
+              ![image](https://github.com/user-attachments/assets/b3ea71ad-45d5-42b4-9fb0-7e23f99bc2e2)
+
+https://discord.gg/moi
+discord @51.4
